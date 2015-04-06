@@ -10,5 +10,7 @@ public class Level1_1 {
 		System.out.println( "Welcome 1111111111111111111111111111111111" );
 		System.out.println( "Welcome 1111111111111111111111111111111111" );
 		System.out.println( "Welcome 1111111111111111111111111111111111" );
+		System.out.println( "Welcome toooooooooooooooo git 3333!!!!" );
+		System.out.println( "Welcome toooooooooooooooo git 3333!!!!" );
     } 
 }
